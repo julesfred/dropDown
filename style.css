@@ -34,10 +34,15 @@ body {
     height: 100px;
     width: 400px;
     border-top: 2px solid #201F3B;
-    border-bottom: 2px solid #201F3B;
     display: flex;
     align-items: center;
+}
 
+.oneDrop {
+    height: 400px;
+    width: 400px;
+    border-bottom: 2px solid #201F3B;
+    display: none;
 }
 
 .two {
